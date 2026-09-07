@@ -1,6 +1,5 @@
 {
-  "homepage": "https://dark-wizz.github.io/algorithm-visualizer",
-  "name": "algorithm-visualizer",
+"homepage": "https://darkk-shadow.github.io/algo-vis",  "name": "algorithm-visualizer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
