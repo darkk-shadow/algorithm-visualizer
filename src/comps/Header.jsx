@@ -63,7 +63,7 @@ const Header = () => {
             <AccessibilityNewOutlined />
           </IconButton>
         </Tooltip>
-        <a href="https://github.com/dark-wizz/algorithm-visualizer.git" target="_blank">
+        <a href="https://github.com/darkk-shadow/algorithm-visualizer" target="_blank" rel="noopener noreferrer">
           <Tooltip title="Source Code" placement="bottom" arrow>
             <IconButton>
               <GitHub />
